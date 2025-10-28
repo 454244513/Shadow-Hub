@@ -1,6 +1,5 @@
 local a = {
     "ShadowUser_test",
-
 }
 
 return a
