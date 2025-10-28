@@ -1,6 +1,5 @@
 local a = {
-    "shjwhdosnfs",
-    "QWQ173958"
+    "shjwhdosnfs"
 }
 
 return a
