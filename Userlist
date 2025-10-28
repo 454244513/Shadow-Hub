@@ -1,9 +1,5 @@
 local a = {
     "China_Sukuna3",
-    "123",
-    "ShadowUser_test",
-    "sedrerew",
-
 }
 
 return a
