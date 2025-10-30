@@ -1,4 +1,5 @@
 local a = {
+    "CN_isvDIJEH",
     "wdxgh26",
 }
 return a
