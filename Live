@@ -3,7 +3,8 @@ local a = {
     "binbin12345641",
     "laowai11",
     "rip_mk2562",
-    "lsr_1145147891"
+    "lsr_1145147891",
+    "rtreght4"
 }
 
 return a
