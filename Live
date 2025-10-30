@@ -1,6 +1,7 @@
 local a = {
     "i123459321",
-    "binbin12345641"
+    "binbin12345641",
+    "laowai11"
 }
 
 return a
