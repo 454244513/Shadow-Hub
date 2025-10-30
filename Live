@@ -1,6 +1,0 @@
-local a = {
-    "EXS_RT",
-    "Sukuna_Hub666",
-    "Q192022Q47",
-}
-return a
