@@ -1,8 +1,5 @@
 local a = {
-    "1478fd91",
-    "huimian_886",
-    "kietlacchettroi",
-    "TTVIP91"
+    "1478fd91"
 }
 
 return a
