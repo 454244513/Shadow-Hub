@@ -1,5 +1,6 @@
 local a = {
-    "gtrmm8"
+    "gtrmm8",
+    "ErrorKrumplee"
 }
 
 return a
