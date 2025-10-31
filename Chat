@@ -1,6 +1,7 @@
 local a = {
     {message = "有人吗", userId = 9747763300, username = "bjbubip", displayName = "bjbubip", timestamp = 1761908617},
-    {message = "111", userId = 9843409316, username = "htft4eeeehtfdx", displayName = "htft4eeeehtfdx", timestamp = 1761908539}
+    {message = "111", userId = 9843409316, username = "htft4eeeehtfdx", displayName = "htft4eeeehtfdx", timestamp = 1761908539},
+    {message = "我是作者", userId = 9843409316, username = "htft4eeeehtfdx", displayName = "htft4eeeehtfdx", timestamp = 1761908547}
 }
 
 return a
