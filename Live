@@ -1,10 +1,5 @@
 local a = {
-    "XudongTTKX",
-    "Sukuna_Hub666",
-    "Sdghhx_yvgu",
-    "huimian_886",
-    "sTtRuTXc",
-    "Imerance4"
+    "XudongTTKX"
 }
 
 return a
