@@ -29,7 +29,8 @@ local a = {
     {message = "im dev", userId = 9843409316, username = "htft4eeeehtfdx", displayName = "htft4eeeehtfdx", timestamp = 1761907726},
     {message = "lol", userId = 9843409316, username = "htft4eeeehtfdx", displayName = "htft4eeeehtfdx", timestamp = 1761907875},
     {message = "hello", userId = 9843409316, username = "htft4eeeehtfdx", displayName = "htft4eeeehtfdx", timestamp = 1761907917},
-    {message = "test", userId = 9843409316, username = "htft4eeeehtfdx", displayName = "htft4eeeehtfdx", timestamp = 1761908018}
+    {message = "test", userId = 9843409316, username = "htft4eeeehtfdx", displayName = "htft4eeeehtfdx", timestamp = 1761908018},
+    {message = ".", userId = 9843409316, username = "htft4eeeehtfdx", displayName = "htft4eeeehtfdx", timestamp = 1761908151}
 }
 
 return a
