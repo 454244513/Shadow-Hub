@@ -3,7 +3,8 @@ local a = {
     {message = "有人吗", userId = 5292251153, username = "Sdghhx_yvgu", displayName = "6pover", timestamp = 1761992045},
     {message = "吃大鸡巴", userId = 5292251153, username = "Sdghhx_yvgu", displayName = "6pover", timestamp = 1761992056},
     {message = "看啥颜色的是免费啊？", userId = 9854380531, username = "sjsjjsna74", displayName = "sjsjjsna74", timestamp = 1761994343},
-    {message = "🤔", userId = 9854380531, username = "sjsjjsna74", displayName = "sjsjjsna74", timestamp = 1761995406}
+    {message = "🤔", userId = 9854380531, username = "sjsjjsna74", displayName = "sjsjjsna74", timestamp = 1761995406},
+    {message = "7878", userId = 9854380531, username = "sjsjjsna74", displayName = "sjsjjsna74", timestamp = 1761995410}
 }
 
 return a
