@@ -1,5 +1,6 @@
 local a = {
-    "XXSILVER_BeastxX2007"
+    "XXSILVER_BeastxX2007",
+    "LSchenmo"
 }
 
 return a
