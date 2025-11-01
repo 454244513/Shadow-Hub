@@ -1,5 +1,6 @@
 local a = {
-    "3f028"
+    "3f028",
+    "UnproOfTsb"
 }
 
 return a
