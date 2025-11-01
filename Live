@@ -1,5 +1,6 @@
 local a = {
-    "xxxxddxxxx8"
+    "xxxxddxxxx8",
+    "AMDsteam"
 }
 
 return a
