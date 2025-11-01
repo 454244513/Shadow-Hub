@@ -1,5 +1,5 @@
 local a = {
-    {message = "怎么进入私服？", userId = 9853258149, username = "chocolate09336", displayName = "chocolate09336", timestamp = 1761983927}
+    {message = "为我50", userId = 9545040449, username = "qwades_6", displayName = "脚本帝", timestamp = 1761985532}
 }
 
 return a
