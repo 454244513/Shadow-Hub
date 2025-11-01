@@ -1,5 +1,6 @@
 local a = {
-    "142536gj"
+    "142536gj",
+    "zxcv_seoi"
 }
 
 return a
