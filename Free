@@ -1,5 +1,6 @@
 local a = {
-    "sttoneok1"
+    "sttoneok1",
+    "sttoneok20"
 }
 
 return a
