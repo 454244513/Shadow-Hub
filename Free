@@ -1,5 +1,6 @@
 local a = {
-    "9x2589"
+    "9x2589",
+    "XDFJIX"
 }
 
 return a
