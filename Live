@@ -1,5 +1,6 @@
 local a = {
-    "CHANNELS664"
+    "CHANNELS664",
+    "NotAn73Alt"
 }
 
 return a
