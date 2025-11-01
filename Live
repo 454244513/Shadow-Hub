@@ -1,6 +1,7 @@
 local a = {
     "xxxxddxxxx8",
-    "AMDsteam"
+    "AMDsteam",
+    "binbin12345641"
 }
 
 return a
