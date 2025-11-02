@@ -1,5 +1,6 @@
 local a = {
-    "poptKm10"
+    "poptKm10",
+    "ASD_58694"
 }
 
 return a
