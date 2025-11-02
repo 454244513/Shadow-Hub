@@ -1,5 +1,6 @@
 local a = {
-    "CN_isvDIJEH"
+    "CN_isvDIJEH",
+    "ASD_58694"
 }
 
 return a
