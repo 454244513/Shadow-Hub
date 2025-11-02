@@ -1,6 +1,5 @@
 local a = {
-    "zyzss5566",
-    "npc_fwsbrb"
+    "zyzss5566"
 }
 
 return a
