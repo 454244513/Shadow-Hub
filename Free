@@ -1,6 +1,7 @@
 local a = {
     "GuiTu6666",
-    "PrimalStormyCraze"
+    "PrimalStormyCraze",
+    "CN_niannian2"
 }
 
 return a
