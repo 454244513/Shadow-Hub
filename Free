@@ -1,6 +1,5 @@
 local a = {
-    "PandaLuckyGhost2017",
-    "Springfuzz5029"
+    "gjmhminning"
 }
 
 return a
