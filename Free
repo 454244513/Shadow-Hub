@@ -1,8 +1,5 @@
 local a = {
-    "CN_isvDIJEH",
-    "PandaLuckyGhost2017",
-    "LSchenmo",
-    "moloti1321tv"
+    "PandaLuckyGhost2017"
 }
 
 return a
