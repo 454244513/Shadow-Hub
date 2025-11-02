@@ -1,6 +1,7 @@
 local a = {
     "npc_fwsbrb",
-    "qq131488772"
+    "qq131488772",
+    "phantomviper7750"
 }
 
 return a
