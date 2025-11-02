@@ -1,5 +1,6 @@
 local a = {
-    "qq131488772"
+    "qq131488772",
+    "shuayin113"
 }
 
 return a
