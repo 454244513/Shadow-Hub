@@ -1,5 +1,6 @@
 local a = {
-    "djj_xman"
+    "djj_xman",
+    "npc_fwsbrb"
 }
 
 return a
