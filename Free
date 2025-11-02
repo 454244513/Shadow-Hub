@@ -1,5 +1,6 @@
 local a = {
-    "npc_fwsbrb"
+    "npc_fwsbrb",
+    "phantomviper7750"
 }
 
 return a
