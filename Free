@@ -1,5 +1,6 @@
 local a = {
-    "Hidrift_ha"
+    "Hidrift_ha",
+    "gjmhminning"
 }
 
 return a
