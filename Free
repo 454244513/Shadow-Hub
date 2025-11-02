@@ -1,6 +1,7 @@
 local a = {
     "shuayin113",
-    "CN_114514ngsb2"
+    "CN_114514ngsb2",
+    "Q192022Q19"
 }
 
 return a
