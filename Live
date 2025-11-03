@@ -1,5 +1,6 @@
 local a = {
-    "jimsgwapu"
+    "jimsgwapu",
+    "NotAn73Alt"
 }
 
 return a
