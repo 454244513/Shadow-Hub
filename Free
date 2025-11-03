@@ -1,6 +1,5 @@
 local a = {
-    "cscscs1282",
-    "Dxjxjnxcjcjcjcjdx"
+    "cscscs1282"
 }
 
 return a
