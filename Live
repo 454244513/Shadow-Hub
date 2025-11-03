@@ -1,6 +1,5 @@
 local a = {
-    "NotAn73Alt",
-    "zxcv_sttt"
+    "NotAn73Alt"
 }
 
 return a
