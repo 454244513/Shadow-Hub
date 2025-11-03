@@ -1,6 +1,7 @@
 local a = {
     "Dog_Blox768",
-    "gghkd64"
+    "gghkd64",
+    "PrimalStormyCraze"
 }
 
 return a
