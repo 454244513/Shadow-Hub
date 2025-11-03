@@ -1,6 +1,7 @@
 local a = {
     "ahdjdjsksisi",
-    "Xvoo160"
+    "Xvoo160",
+    "TubersScript1"
 }
 
 return a
