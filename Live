@@ -1,5 +1,6 @@
 local a = {
-    "jhvvcxdf6"
+    "jhvvcxdf6",
+    "GFSP_r9"
 }
 
 return a
