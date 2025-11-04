@@ -1,6 +1,7 @@
 local a = {
     "hjjls_93",
-    "ABCDEFG88962"
+    "ABCDEFG88962",
+    "GFSP_r9"
 }
 
 return a
