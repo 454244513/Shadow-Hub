@@ -1,5 +1,6 @@
 local a = {
-    "myaccountisgone87"
+    "myaccountisgone87",
+    "GFSP_r9"
 }
 
 return a
