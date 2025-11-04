@@ -1,6 +1,5 @@
 local a = {
-    "HBthebossl",
-    "EzkielFive"
+    "SkyVault1"
 }
 
 return a
