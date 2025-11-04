@@ -1,6 +1,7 @@
 local a = {
     "ASD_58694",
-    "kanhaidazhou"
+    "kanhaidazhou",
+    "GFSP_r14"
 }
 
 return a
