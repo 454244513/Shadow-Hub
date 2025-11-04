@@ -1,5 +1,6 @@
 local a = {
-    "ABCDEFG88962"
+    "ABCDEFG88962",
+    "myaccountisgone87"
 }
 
 return a
