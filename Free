@@ -1,6 +1,5 @@
 local a = {
-    "alkaxzal",
-    "GFSP_r14"
+    "XENON_V27"
 }
 
 return a
