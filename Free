@@ -1,7 +1,5 @@
 local a = {
-    "gghkd64",
-    "ASD_4758",
-    "FAWFAWFAWFAWFAWFAWF9"
+    "gghkd64"
 }
 
 return a
