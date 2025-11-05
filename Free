@@ -1,6 +1,5 @@
 local a = {
-    "gghkd64",
-    "GFSP_r9"
+    "gghkd64"
 }
 
 return a
