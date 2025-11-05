@@ -1,9 +1,5 @@
 local a = {
-    "QWQ173958",
-    "xvbsnsndjsjs",
-    "thr6ryhtyrfe",
-    "76u456y67",
-    "shadowhublalala"
+    "QWQ173958"
 }
 
 return a
