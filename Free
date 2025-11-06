@@ -1,6 +1,5 @@
 local a = {
     "N0raZer0Glitch2010",
-    "GFSP_r9",
 }
 
 return a
