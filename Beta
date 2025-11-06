@@ -1,7 +1,5 @@
 local a = {
-    "nmawal9",
-    "shadowhublalalala",
-    "454244513"
+    "nmawal9"
 }
 
 return a
