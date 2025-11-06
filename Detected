@@ -1,6 +1,5 @@
 local a = {
-    {userId = 9787574172, username = "antiall500", hwid = "628E2B0CE944D8B5244D4A95B1370E266906A972771341F673FD351534A42C61"},
-    {userId = 7741679354, username = "jintongyin", hwid = "5a78944da132c95a691df3b09148267637b21222e97c829c9290cdaead71c8cbc99e42065414803cd8e72a6b2e1908f2"}
+    {userId = 9214760583, username = "gero5wuarita", hwid = "N/A"},
 }
 
 return a
