@@ -1,6 +1,7 @@
 local a = {
     "rehonserni",
     "su_zhenhua1989",
+    "GFSP_r9",
 }
 
 return a
