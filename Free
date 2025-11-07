@@ -1,5 +1,6 @@
 local a = {
     "fshtck1868",
+    "GFSP_r9",
 }
 
 return a
