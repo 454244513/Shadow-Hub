@@ -1,5 +1,6 @@
 local a = {
     "qq131488772",
+    "shuayin114",
 }
 
 return a
