@@ -1,5 +1,6 @@
 local a = {
     "78789113nm",
+    "jellykino",
 }
 
 return a
