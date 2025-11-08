@@ -1,5 +1,6 @@
 local a = {
     "npc_fwsbrb",
+    "jellykino",
 }
 
 return a
