@@ -1,6 +1,5 @@
 local a = {
     "78789113nm",
-    "tanwenshun999",
 }
 
 return a
