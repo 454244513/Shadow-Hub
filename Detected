@@ -1,5 +1,6 @@
 local a = {
     {userId = 7351390271, username = "CN_114514ngsb2", hwid = "N/A"},
+    {userId = 9902558984, username = "Qqqqqqqq666689", hwid = "N/A"},
 }
 
 return a
