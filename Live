@@ -1,5 +1,6 @@
 local a = {
     "STE_OVO",
+    "qwerty132109976009",
 }
 
 return a
