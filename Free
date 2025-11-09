@@ -1,6 +1,5 @@
 local a = {
     "cast7144",
-    "emberlashrecode",
 }
 
 return a
