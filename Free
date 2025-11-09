@@ -1,5 +1,6 @@
 local a = {
     "DSB5726",
+    "vimout111",
 }
 
 return a
