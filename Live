@@ -1,6 +1,5 @@
 local a = {
     "gdbhfxu",
-    "Xiaoy_114514",
 }
 
 return a
