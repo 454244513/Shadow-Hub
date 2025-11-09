@@ -1,5 +1,6 @@
 local a = {
     "NhatDat2743",
+    "stk_eze",
 }
 
 return a
