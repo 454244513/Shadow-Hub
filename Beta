@@ -1,6 +1,7 @@
 local a = {
     "91vip_nb6",
     "Gulasy_G1ms",
+    "shadowhubtest111",
 }
 
 return a
