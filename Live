@@ -1,7 +1,5 @@
 local a = {
     "itfrxxdex",
-    "Xiaoy_114514",
-    "Hakamhijin",
 }
 
 return a
