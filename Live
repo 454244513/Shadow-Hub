@@ -1,5 +1,6 @@
 local a = {
     "jinjinimomolmo",
+    "Dog_Blox768",
 }
 
 return a
