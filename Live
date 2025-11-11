@@ -1,6 +1,5 @@
 local a = {
     "Dog_Blox768",
-    "EZWAW0",
 }
 
 return a
