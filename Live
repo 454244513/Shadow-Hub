@@ -1,6 +1,5 @@
 local a = {
     "yylchijiji",
-    "XM_HHM54",
 }
 
 return a
