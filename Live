@@ -1,5 +1,6 @@
 local a = {
     "XM_HHM54",
+    "jinjinimomolmo",
 }
 
 return a
