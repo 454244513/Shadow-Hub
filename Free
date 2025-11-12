@@ -1,5 +1,6 @@
 local a = {
     "rsdygg21",
+    "rsdygg22",
 }
 
 return a
