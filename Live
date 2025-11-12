@@ -1,7 +1,5 @@
 local a = {
-    "FSDTTKX000",
     "amirsamamir1004",
-    "Hakamhijin",
 }
 
 return a
