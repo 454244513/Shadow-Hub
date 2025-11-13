@@ -1,6 +1,5 @@
 local a = {
     "bjb582",
-    "Hakamhijin",
 }
 
 return a
