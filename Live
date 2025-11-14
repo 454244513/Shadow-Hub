@@ -1,5 +1,6 @@
 local a = {
     "KSU_YYDS",
+    "KernelSUNext",
 }
 
 return a
