@@ -1,5 +1,6 @@
 local a = {
     "hddb_f70",
+    "eeep12348",
 }
 
 return a
