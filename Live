@@ -1,6 +1,5 @@
 local a = {
-    "agsb004",
-    "STE_OVO",
+    "MAX541881452",
 }
 
 return a
