@@ -1,5 +1,6 @@
 local a = {
     "STE_OVO",
+    "itfrxxdex",
 }
 
 return a
