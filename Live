@@ -1,5 +1,6 @@
 local a = {
     "EliLava202421",
+    "STE_OVO",
 }
 
 return a
