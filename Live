@@ -1,5 +1,6 @@
 local a = {
     "hsiwbwhid",
+    "Moneyprint_ximao",
 }
 
 return a
