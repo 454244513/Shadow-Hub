@@ -1,6 +1,5 @@
 local a = {
     "tricydrip1",
-    "emberlashrecode",
 }
 
 return a
