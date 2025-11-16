@@ -1,8 +1,5 @@
 local a = {
-    "955566qwer",
     "djbd_889",
-    "emberlashrecode",
-    "Mateo_Beast11",
 }
 
 return a
