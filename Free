@@ -1,6 +1,7 @@
 local a = {
     "955566qwer",
     "djbd_889",
+    "emberlashrecode",
 }
 
 return a
