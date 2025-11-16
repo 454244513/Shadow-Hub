@@ -1,7 +1,5 @@
 local a = {
     "paidhack2",
-    "1751556q",
-    "ubgnb66666",
 }
 
 return a
