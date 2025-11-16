@@ -1,6 +1,5 @@
 local a = {
     "djbd_889",
-    "undertaker20502",
 }
 
 return a
