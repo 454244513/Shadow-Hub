@@ -1,5 +1,6 @@
 local a = {
     "NotAn73Alt",
+    "Moneyprint_ximao",
 }
 
 return a
