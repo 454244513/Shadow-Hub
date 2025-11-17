@@ -1,5 +1,6 @@
 local a = {
     "ggkosxx",
+    "fast_vibesdawn",
 }
 
 return a
