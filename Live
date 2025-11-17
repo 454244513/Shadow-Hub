@@ -1,5 +1,6 @@
 local a = {
     "syssgusgige",
+    "synb6722",
 }
 
 return a
