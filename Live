@@ -1,5 +1,6 @@
 local a = {
     "etlog_pogi190",
+    "Moneyprint_ximao",
 }
 
 return a
