@@ -1,6 +1,5 @@
 local a = {
     "CoCoNouTBrain",
-    "dafdawagd",
 }
 
 return a
