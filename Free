@@ -1,7 +1,5 @@
 local a = {
     "jellykino",
-    "Mateo_Beast11",
-    "emberlashrecode",
 }
 
 return a
