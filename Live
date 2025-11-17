@@ -1,6 +1,7 @@
 local a = {
     "yueguilun",
     "amirsamamir1004",
+    "zhuruqizhaowo",
 }
 
 return a
