@@ -1,5 +1,6 @@
 local a = {
     "i12345936",
+    "synb6722",
 }
 
 return a
