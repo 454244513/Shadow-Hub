@@ -1,6 +1,7 @@
 local a = {
     "yueguilun",
     "liyetongmum",
+    "zhuruqizhaowo",
 }
 
 return a
