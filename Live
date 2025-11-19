@@ -1,5 +1,6 @@
 local a = {
     "changjian666",
+    "azsx700",
 }
 
 return a
