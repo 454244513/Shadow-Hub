@@ -1,6 +1,5 @@
 local a = {
-    "changjian666",
-    "azsx700",
+    "Chenghao_bot",
 }
 
 return a
