@@ -1,5 +1,6 @@
 local a = {
     "Chenghao_bot",
+    "wbwb92",
 }
 
 return a
