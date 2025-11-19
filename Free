@@ -1,5 +1,6 @@
 local a = {
     "gcvv_087",
+    "CoCoNouTBrain",
 }
 
 return a
