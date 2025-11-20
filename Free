@@ -1,5 +1,6 @@
 local a = {
     "tricydrip12",
+    "powerofemperor12",
 }
 
 return a
