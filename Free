@@ -1,6 +1,5 @@
 local a = {
     "tricydrip11",
-    "De1n2s_z",
 }
 
 return a
