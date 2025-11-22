@@ -1,6 +1,5 @@
 local a = {
     "bf_859",
-    "jellykino",
 }
 
 return a
