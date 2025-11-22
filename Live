@@ -1,5 +1,6 @@
 local a = {
     "synb6722",
+    "STE_OVO",
 }
 
 return a
