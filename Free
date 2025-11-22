@@ -1,5 +1,6 @@
 local a = {
     "tricydrip12",
+    "ASD_58694",
 }
 
 return a
