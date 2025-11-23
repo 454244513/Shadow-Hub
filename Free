@@ -1,5 +1,6 @@
 local a = {
     "jellykino",
+    "1000thesky",
 }
 
 return a
