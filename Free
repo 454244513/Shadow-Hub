@@ -1,6 +1,7 @@
 local a = {
     "NeonMagicGlitch2018",
     "oaoits",
+    "DauntlessTyrant1642",
 }
 
 return a
