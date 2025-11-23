@@ -1,6 +1,5 @@
 local a = {
-    "s520132",
-    "synb6722",
+    "paidhack2",
 }
 
 return a
