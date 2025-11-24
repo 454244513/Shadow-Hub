@@ -1,6 +1,5 @@
 local a = {
     "QYDSNP",
-    "sdjjdjdjx2",
 }
 
 return a
