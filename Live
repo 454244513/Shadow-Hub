@@ -1,5 +1,6 @@
 local a = {
     "zxcv_sttt",
+    "heizidark",
 }
 
 return a
