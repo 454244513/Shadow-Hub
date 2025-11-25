@@ -1,5 +1,6 @@
 local a = {
     "QYDSNP1",
+    "zxcv_sttt",
 }
 
 return a
